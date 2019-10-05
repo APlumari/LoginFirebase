@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332711527203",
+    "firebase_url": "https://loginfirebase-aa278.firebaseio.com",
+    "project_id": "loginfirebase-aa278",
+    "storage_bucket": "loginfirebase-aa278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332711527203:android:6e6fa99e213b3a4b608296",
+        "android_client_info": {
+          "package_name": "br.com.andreplumari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332711527203-vhlhtcr20pg3pcpbj0bjccuooqmdj5t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.andreplumari",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "332711527203-ctegrbkmjlbp8hvo5lptrsfq7jsds1j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDso7ANSZZ9iFuYyJvZ8quYzF-pscCkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332711527203-ctegrbkmjlbp8hvo5lptrsfq7jsds1j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
